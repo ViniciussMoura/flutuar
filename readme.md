@@ -8,7 +8,7 @@ Aqui você encontra pacotes de viagens com até 30% de desconto.<br/>
 
 
 <p align="center">
-  <img alt="License" src="./images/Capa.png">
+  <img alt="License" src="./images/capa.png">
 </p>
 
 <br>
